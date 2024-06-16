@@ -1,5 +1,5 @@
 - 👋 你好，我是 manong-czk
-- 👀 你可以在洛谷关注我：![manong_czk](https://www.luogu.com.cn/user/1063924)
-- 🌱 你可以在 Hydro 关注我：![manong_czk](https://hydro.ac/user/38971)
-- 📫 我的个人 Github Page：![manong-czk.github.io](https://manong-czk.github.io/)
+- 👀 你可以在洛谷关注我：https://www.luogu.com.cn/user/1063924
+- 🌱 你可以在 Hydro 关注我：https://hydro.ac/user/38971
+- 📫 我的个人 Github Page：https://manong-czk.github.io/
 - 😄 这是一个蒟蒻 OIer，你应该踩爆 TA
